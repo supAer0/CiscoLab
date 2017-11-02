@@ -14,3 +14,4 @@
   - Прикладной уровень OSI
   - nslookup www.ya.ru, выдал ошибку таймаута, так как нигде у нас в топологии не поднят DNS.
   - ![img](https://i.imgur.com/oAkYdgy.png "nslookup")
+  - ![img](https://i.imgur.com/p3LwCyz.png "nslookup")
